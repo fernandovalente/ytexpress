@@ -1,0 +1,7 @@
+POST http://localhost:3000/products/add
+Content-Type: application/json
+
+{
+    "id": 5,
+    "name": "Maecenas egestas arcu quis"
+}
