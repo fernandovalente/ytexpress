@@ -1,0 +1,12 @@
+node_modules
+node_modules/*
+dist
+dist/*
+storybook-static/
+.env
+package-lock.json
+npm-debug.log
+.env.local
+yarn.lock
+yarn-error.log
+.DS_Store
